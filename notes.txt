@@ -1,0 +1,1 @@
+video pausado: 1:13 -> parado apos validar o usuario antes de enviar o Spot
