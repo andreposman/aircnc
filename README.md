@@ -5,7 +5,7 @@ AirCnc is an Airbnb clone, that allows companies to rent space in their companie
 
 ## Installation and Usage
 
-This is the "main" README of the repo, to see the  `backend`, `frontend` or `mobile`. Please refer to their README, inside each folder.
+This is the "main" README of the repo, to take a look at the specific instructions of the `backend`, `frontend` or `mobile`, go to the respective folders.
 
 ## Contributing
 This is a free open-source project. Which means that pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
