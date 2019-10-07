@@ -1,5 +1,4 @@
 import React, { useState, useMemo } from 'react'
-import { Link } from 'react-router-dom'
 import Api from '../../services/api'
 
 import camera from '../../assets/camera.svg'
@@ -43,7 +42,7 @@ export default function New({ history }) {
                 className={thumbnail ? 'has-thumbnail' : ''}
             >
                 <input type="file" onChange={event => setThumbnail(event.target.files[0])} />
-                <img src={camera} alt="Select image" />
+                <img src={camera} alt="Select img" />
             </label>
 
             <label htmlFor="company">Company *</label>
