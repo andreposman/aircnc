@@ -35,7 +35,7 @@ export default function Login({ history }) {
                     type="submit"
                     className="btn"
                 >
-                    Entrar
+                    Login
                 </button>
 
             </form>
